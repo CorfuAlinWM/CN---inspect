@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="64" viewBox="0 0 45 64">
+    <defs>
+        <filter id="a" width="138.7%" height="246.4%" x="-19.3%" y="-73.2%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="1.215"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <ellipse cx="22.196" cy="58.51" fill="#8E8E8E" filter="url(#a)" opacity=".3" rx="9.426" ry="2.49"/>
+        <ellipse cx="22.5" cy="23.031" fill="#523428" rx="22.5" ry="23.031"/>
+        <path fill="#523428" d="M17.027 44.816c2.23.623 3.75 2.905 4.56 6.847 1.217 5.914.609-5.602 5.17-6.535"/>
+    </g>
+</svg>
